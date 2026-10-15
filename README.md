@@ -2,7 +2,7 @@
 
 Aplicação web que identifica doenças em folhas de tomate a partir de uma foto, usando visão computacional.
 
-**👉 Teste o app:** LINK_DO_APP
+**👉 Teste o app:** https://tomate-ia-victor.streamlit.app
 
 ## O problema
 
